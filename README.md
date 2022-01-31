@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vmontielmg aka Vanessa 👩‍💻
 - 👀 I’m interested in Full Stack Software Engineering roles!
-- 🌱 I’m currently learning ReactJS!
+- 🌱 I’m currently learning React!
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
